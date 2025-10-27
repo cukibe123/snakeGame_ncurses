@@ -12,3 +12,6 @@
 # Local binaries
 main
 snakeGame
+
+# Local .vscode folder
+.vscode
